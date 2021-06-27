@@ -25,7 +25,7 @@ export class AppComponent {
   }
 
   onButtonClick(){
-    const numbers = '1234567879';
+    const numbers = '01234567879';
     const letters = 'abcdefghijklmnopqrstuvwxyz';
     const symbols = '!@#$%^&*';
 
